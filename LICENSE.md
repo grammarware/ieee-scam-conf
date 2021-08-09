@@ -1,6 +1,10 @@
-MIT License
+The SCAM logo (c) the SCAM logo creators — it exists at least since 2011 and was being used as the logo of the conference at SCAM 2012..2020.
 
-Copyright (c) 2021 Vadim Zaytsev
+Redraw of the SCAM logo (c) 2021 Vadim Zaytsev
+
+For the redraw, use either the Creative Commons [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) or the MIT License which text is included below, at your own choice.
+
+## MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
